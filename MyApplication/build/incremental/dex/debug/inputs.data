@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375724859479 563264 44ec51e9d395a47aab135e5e1b556c0007442156 C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar
+1378226023106 482 faada894e924919263c56b8f52dfdc73ffaae454 C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$dimen.class
+1378226023109 493 e50e8ac7d87578cf0f9d17817f43dd85af7bc685 C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$string.class
+1378226023099 831 29e80d5f28e0418c94bb10cc623d98268f16d0e0 C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MainActivity.class
+1378226023112 359 fdc73ac1e1da2010356e9bbf147ce969332b18da C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\BuildConfig.class
+1378226023105 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$attr.class
+1378226023108 424 717818323f9e9b60b184a1974ef09089474c3079 C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$layout.class
+1378226023106 428 55a643a0b155fd26d3984e444062582e16cdb5aa C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$drawable.class
+1378226023111 747 8c6f0b9b539383848a0290db986ad06085b8a18a C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R.class
+1378226023110 452 b903ba99e69168667b72c64576166105f20e954d C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$style.class
+1378226023107 414 f05ddb2ac2567c83deb94b8089532e72b5d137dc C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$id.class
+1378226023108 409 c313bc16ac45d488e57698304be014e28af97566 C:\Users\Samuel\workspace\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$menu.class
